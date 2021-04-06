@@ -25,9 +25,9 @@ Prachy
 
 Pohyb
 
-* 1. pole - 200
-* 2. pole - 400
-* 3. pole - 800
+* První pole - 200
+* Druhé pole - 400
+* Třetí pole - 800
 * Mocninná * 100
 
 Prodejna vybavení
