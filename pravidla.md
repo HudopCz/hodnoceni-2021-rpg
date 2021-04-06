@@ -8,6 +8,7 @@
 * Zabíječovy skalpy získáváš za zabité nestvůry (1:N)
 * Koho ale máme zabít?
   * Existuje vývěska hledaných (nikoli kartotéka)
+    - [ ] **TODO: Vytvořit**
   * Abys mohl zápolit s nestvůrou, musíš splnit podmínky (minimální síla, magenergie, ...)
   * Má speciální schopnost, že když to poděláme a bude jich málo, tak se otevře dimenze ze světa hordy, a přijdou nové nestvůry
 
@@ -37,19 +38,19 @@ Prodejna vybavení
 * Lektvary
 * Svitky
 * Atd.
-* TODO: Vše
+- [ ] **TODO: Vše**
 
 Fitcentrum
 
 * Vylepši si sílu za prachy
-* TODO: Za jaký prachy?
+- [ ] **TODO: Za jaký prachy?**
 
 Centrum Maggi
 
 * Vylepši si magenergii za prachy
-* TODO: Za jaký prachy?
+- [ ] **TODO: Za jaký prachy?**
 
-TODO: Centrum zdravého pohybu?
+- [ ] **TODO: Centrum zdravého pohybu?**
 
 ## Průběh vyhodnocení
 
@@ -74,7 +75,7 @@ Akce
   * Ale můžeš
   * Tvá síla plus kostka vs. síla protivníka plus kostka
   * Plus schopnosti
-  * TODO: U obálkovky házíme všichni při odevzdávání?
+  * Házíme všichni při odevzdávání?
   * Zabitá nestvůra mizí (škrtneme na vývěsce hledaných)
   * Může se s ní utkat více zabíječů
   * Výhra
@@ -94,6 +95,8 @@ Akce
 ## Herní plán
 
 Viz plán na papíře, který si zatím necháváme pro sebe, ale určitě už ho máme nakreslený
+
+- [ ] **TODO: Vytvořit**
 
 ## Stav počátku
 
