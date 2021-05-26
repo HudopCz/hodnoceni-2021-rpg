@@ -67,6 +67,7 @@ Akce
   * Svitky nafurt, lektvary na jedno použití
   * Za použití svitku platíš magií
   * Věci do boje platí na nejbližší boj
+  * Jeden svitek můžeš přečíst jen jednou za boj
   * Jiné věci jsou asi pochopitelné
 * Boj
   * Nemusíš bojovat s protivníkem, na jehož pole stoupneš
