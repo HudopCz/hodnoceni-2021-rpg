@@ -15,19 +15,24 @@
 
 Prachy
 
-* 500
 * 700
 * 1100
 * 1300
+* 1700
 
 ## Za prachy
 
 Pohyb
 
-* První pole - 200
-* Druhé pole - 400
-* Třetí pole - 800
+* První pole - 100
+* Druhé pole - 200
+* Třetí pole - 400
 * Mocninná * 100
+
+Vylepši si sílu nebo magenergii
+
+* První bod 300
+* Každý další bod stojí 300 navíc oproti předchozímu
 
 Prodejna vybavení
 
@@ -40,15 +45,11 @@ Prodejna vybavení
 
 Centrum zdravého pohybu
 
-* Vylepši si sílu za prachy
-* První bod síly 300
-* Každý další bod síly stojí 300 navíc oproti předchozímu
+* Vylepši si sílu za prachy za třetinu ceny
 
 Centrum Maggi
 
-* Vylepši si magenergii za prachy
-* První bod magie 300
-* Každý další bod magie stojí 300 navíc oproti předchozímu
+* Vylepši si magenergii za prachy za třetinu ceny
 
 ## Průběh vyhodnocení
 
@@ -103,6 +104,5 @@ Doplní se 10 % magenergie, zaokrouhleno nahoru
 
 * Síla 1
 * Magenergie 1
-* Pohyb 1
 * 900 kebláčů
 

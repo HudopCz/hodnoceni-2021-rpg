@@ -51,7 +51,7 @@
 * Půllitr síly
   * 700
 * Red Bull
-  * 2000
+  * 1000
 * Velkej panák many
   * 130
 * Velkej panák síly
@@ -59,4 +59,4 @@
 * Svěcená voda Papa
   * 100
 * Teleport
-  * 4000
+  * 2500
