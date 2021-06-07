@@ -5,23 +5,25 @@
 * Boty proti chásce
   * 600
 * Boty z umělý hmoty
-  * 2100
+  * 3000
 * Brňavka
-  * 2000
+  * 2500
 * Centropen kolík
   * 900
+* Dost divnej kolík
+  * 2500
 * Nešpičatý klobouk
   * 1400
 * Obrnění
-  * 2000
+  * 2500
 * Rovnátka
-  * 600
+  * 700
 * Set zabíječe upírů
   * 500
 * Špičatý klobouk
-  * 2000
+  * 2500
 * Toulavý boty
-  * 1100
+  * 1500
 * Zrcadlo
   * 1500
 
@@ -42,6 +44,8 @@
   * 200
 * Covid-free svěcená voda
   * 200
+* Kolík proti kolice
+  * 100
 * Panák many
   * 100
 * Panák síly

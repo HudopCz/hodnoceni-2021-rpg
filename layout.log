@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.1)  5 JUN 2021 15:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.1)  7 JUN 2021 23:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -383,227 +383,237 @@ File: cards/Daniel_Pulka.png Graphic file (type png)
 <use cards/Daniel_Pulka.png>
 Package pdftex.def Info: cards/Daniel_Pulka.png  used on input line 80.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Drakula_Jr..png, id=16, 282.30469pt x 393.72093pt>
+<cards/Dost-divnej-kolik.png, id=16, 282.30469pt x 393.72093pt>
+File: cards/Dost-divnej-kolik.png Graphic file (type png)
+<use cards/Dost-divnej-kolik.png>
+Package pdftex.def Info: cards/Dost-divnej-kolik.png  used on input line 84.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Drakula_Jr..png, id=17, 282.30469pt x 393.72093pt>
 File: cards/Drakula_Jr..png Graphic file (type png)
 <use cards/Drakula_Jr..png>
-Package pdftex.def Info: cards/Drakula_Jr..png  used on input line 84.
+Package pdftex.def Info: cards/Drakula_Jr..png  used on input line 87.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Drakula.png, id=17, 282.30469pt x 393.72093pt>
+<cards/Drakula.png, id=18, 282.30469pt x 393.72093pt>
 File: cards/Drakula.png Graphic file (type png)
 <use cards/Drakula.png>
-Package pdftex.def Info: cards/Drakula.png  used on input line 87.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Drakula_Sr..png, id=18, 282.30469pt x 393.72093pt>
-File: cards/Drakula_Sr..png Graphic file (type png)
-<use cards/Drakula_Sr..png>
-Package pdftex.def Info: cards/Drakula_Sr..png  used on input line 90.
+Package pdftex.def Info: cards/Drakula.png  used on input line 90.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
 
 LaTeX Warning: Float too large for page by 12.28496pt on input line 92.
 
-<cards/Haigus.png, id=19, 282.30469pt x 393.72093pt>
+<cards/Drakula_Sr..png, id=19, 282.30469pt x 393.72093pt>
+File: cards/Drakula_Sr..png Graphic file (type png)
+<use cards/Drakula_Sr..png>
+Package pdftex.def Info: cards/Drakula_Sr..png  used on input line 99.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Haigus.png, id=20, 282.30469pt x 393.72093pt>
 File: cards/Haigus.png Graphic file (type png)
 <use cards/Haigus.png>
-Package pdftex.def Info: cards/Haigus.png  used on input line 99.
+Package pdftex.def Info: cards/Haigus.png  used on input line 102.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Hrabe_Orlok.png, id=20, 282.30469pt x 393.72093pt>
+<cards/Hrabe_Orlok.png, id=21, 282.30469pt x 393.72093pt>
 File: cards/Hrabe_Orlok.png Graphic file (type png)
 <use cards/Hrabe_Orlok.png>
-Package pdftex.def Info: cards/Hrabe_Orlok.png  used on input line 102.
+Package pdftex.def Info: cards/Hrabe_Orlok.png  used on input line 105.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Kumransky_svitek.png, id=21, 282.30469pt x 393.72093pt>
+<cards/Kolik-proti-kolice.png, id=22, 282.30469pt x 393.72093pt>
+File: cards/Kolik-proti-kolice.png Graphic file (type png)
+<use cards/Kolik-proti-kolice.png>
+Package pdftex.def Info: cards/Kolik-proti-kolice.png  used on input line 109.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Kumransky_svitek.png, id=23, 282.30469pt x 393.72093pt>
 File: cards/Kumransky_svitek.png Graphic file (type png)
 <use cards/Kumransky_svitek.png>
-Package pdftex.def Info: cards/Kumransky_svitek.png  used on input line 105.
+Package pdftex.def Info: cards/Kumransky_svitek.png  used on input line 112.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Lestat.png, id=22, 282.30469pt x 393.72093pt>
+<cards/Lestat.png, id=24, 282.30469pt x 393.72093pt>
 File: cards/Lestat.png Graphic file (type png)
 <use cards/Lestat.png>
-Package pdftex.def Info: cards/Lestat.png  used on input line 109.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Levitace.png, id=23, 282.30469pt x 393.72093pt>
-File: cards/Levitace.png Graphic file (type png)
-<use cards/Levitace.png>
-Package pdftex.def Info: cards/Levitace.png  used on input line 112.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Lucha_Libre.png, id=24, 282.30469pt x 393.72093pt>
-File: cards/Lucha_Libre.png Graphic file (type png)
-<use cards/Lucha_Libre.png>
-Package pdftex.def Info: cards/Lucha_Libre.png  used on input line 115.
+Package pdftex.def Info: cards/Lestat.png  used on input line 115.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
 
 LaTeX Warning: Float too large for page by 12.28496pt on input line 117.
 
-<cards/Marlow.png, id=25, 282.30469pt x 393.72093pt>
+<cards/Levitace.png, id=25, 282.30469pt x 393.72093pt>
+File: cards/Levitace.png Graphic file (type png)
+<use cards/Levitace.png>
+Package pdftex.def Info: cards/Levitace.png  used on input line 124.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Lucha_Libre.png, id=26, 282.30469pt x 393.72093pt>
+File: cards/Lucha_Libre.png Graphic file (type png)
+<use cards/Lucha_Libre.png>
+Package pdftex.def Info: cards/Lucha_Libre.png  used on input line 127.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Marlow.png, id=27, 282.30469pt x 393.72093pt>
 File: cards/Marlow.png Graphic file (type png)
 <use cards/Marlow.png>
-Package pdftex.def Info: cards/Marlow.png  used on input line 124.
+Package pdftex.def Info: cards/Marlow.png  used on input line 130.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Mexickej_starovekej_upir.png, id=26, 282.30469pt x 393.72093pt>
+<cards/Mexickej_starovekej_upir.png, id=28, 282.30469pt x 393.72093pt>
 File: cards/Mexickej_starovekej_upir.png Graphic file (type png)
 <use cards/Mexickej_starovekej_upir.png>
 Package pdftex.def Info: cards/Mexickej_starovekej_upir.png  used on input line
- 127.
+ 134.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Nespicaty_klobouk.png, id=27, 282.30469pt x 393.72093pt>
+<cards/Nespicaty_klobouk.png, id=29, 282.30469pt x 393.72093pt>
 File: cards/Nespicaty_klobouk.png Graphic file (type png)
 <use cards/Nespicaty_klobouk.png>
-Package pdftex.def Info: cards/Nespicaty_klobouk.png  used on input line 130.
+Package pdftex.def Info: cards/Nespicaty_klobouk.png  used on input line 137.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Obrneni.png, id=28, 282.30469pt x 393.72093pt>
+<cards/Obrneni.png, id=30, 282.30469pt x 393.72093pt>
 File: cards/Obrneni.png Graphic file (type png)
 <use cards/Obrneni.png>
-Package pdftex.def Info: cards/Obrneni.png  used on input line 134.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Panak_many.png, id=29, 282.30469pt x 393.72093pt>
-File: cards/Panak_many.png Graphic file (type png)
-<use cards/Panak_many.png>
-Package pdftex.def Info: cards/Panak_many.png  used on input line 137.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Panak_sily.png, id=30, 282.30469pt x 393.72093pt>
-File: cards/Panak_sily.png Graphic file (type png)
-<use cards/Panak_sily.png>
-Package pdftex.def Info: cards/Panak_sily.png  used on input line 140.
+Package pdftex.def Info: cards/Obrneni.png  used on input line 140.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
 
 LaTeX Warning: Float too large for page by 12.28496pt on input line 142.
 
-<cards/Prazdny_svitek.png, id=31, 282.30469pt x 393.72093pt>
+<cards/Panak_many.png, id=31, 282.30469pt x 393.72093pt>
+File: cards/Panak_many.png Graphic file (type png)
+<use cards/Panak_many.png>
+Package pdftex.def Info: cards/Panak_many.png  used on input line 149.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Panak_sily.png, id=32, 282.30469pt x 393.72093pt>
+File: cards/Panak_sily.png Graphic file (type png)
+<use cards/Panak_sily.png>
+Package pdftex.def Info: cards/Panak_sily.png  used on input line 152.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Prazdny_svitek.png, id=33, 282.30469pt x 393.72093pt>
 File: cards/Prazdny_svitek.png Graphic file (type png)
 <use cards/Prazdny_svitek.png>
-Package pdftex.def Info: cards/Prazdny_svitek.png  used on input line 149.
+Package pdftex.def Info: cards/Prazdny_svitek.png  used on input line 155.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Pullitr_many.png, id=32, 282.30469pt x 393.72093pt>
+<cards/Pullitr_many.png, id=34, 282.30469pt x 393.72093pt>
 File: cards/Pullitr_many.png Graphic file (type png)
 <use cards/Pullitr_many.png>
-Package pdftex.def Info: cards/Pullitr_many.png  used on input line 152.
+Package pdftex.def Info: cards/Pullitr_many.png  used on input line 159.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Pullitr_sily.png, id=33, 282.30469pt x 393.72093pt>
+<cards/Pullitr_sily.png, id=35, 282.30469pt x 393.72093pt>
 File: cards/Pullitr_sily.png Graphic file (type png)
 <use cards/Pullitr_sily.png>
-Package pdftex.def Info: cards/Pullitr_sily.png  used on input line 155.
+Package pdftex.def Info: cards/Pullitr_sily.png  used on input line 162.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Red_Bull.png, id=34, 282.30469pt x 393.72093pt>
+<cards/Red_Bull.png, id=36, 282.30469pt x 393.72093pt>
 File: cards/Red_Bull.png Graphic file (type png)
 <use cards/Red_Bull.png>
-Package pdftex.def Info: cards/Red_Bull.png  used on input line 159.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Rovnatka.png, id=35, 282.30469pt x 393.72093pt>
-File: cards/Rovnatka.png Graphic file (type png)
-<use cards/Rovnatka.png>
-Package pdftex.def Info: cards/Rovnatka.png  used on input line 162.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Set_zabijece_upiru.png, id=36, 282.30469pt x 393.72093pt>
-File: cards/Set_zabijece_upiru.png Graphic file (type png)
-<use cards/Set_zabijece_upiru.png>
-Package pdftex.def Info: cards/Set_zabijece_upiru.png  used on input line 165.
+Package pdftex.def Info: cards/Red_Bull.png  used on input line 165.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
 
 LaTeX Warning: Float too large for page by 12.28496pt on input line 167.
 
-<cards/Spicaty_klobouk.png, id=37, 282.30469pt x 393.72093pt>
+<cards/Rovnatka.png, id=37, 282.30469pt x 393.72093pt>
+File: cards/Rovnatka.png Graphic file (type png)
+<use cards/Rovnatka.png>
+Package pdftex.def Info: cards/Rovnatka.png  used on input line 174.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Set_zabijece_upiru.png, id=38, 282.30469pt x 393.72093pt>
+File: cards/Set_zabijece_upiru.png Graphic file (type png)
+<use cards/Set_zabijece_upiru.png>
+Package pdftex.def Info: cards/Set_zabijece_upiru.png  used on input line 177.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Spicaty_klobouk.png, id=39, 282.30469pt x 393.72093pt>
 File: cards/Spicaty_klobouk.png Graphic file (type png)
 <use cards/Spicaty_klobouk.png>
-Package pdftex.def Info: cards/Spicaty_klobouk.png  used on input line 174.
+Package pdftex.def Info: cards/Spicaty_klobouk.png  used on input line 180.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Svecena_voda_Papa.png, id=38, 282.30469pt x 393.72093pt>
+<cards/Svecena_voda_Papa.png, id=40, 282.30469pt x 393.72093pt>
 File: cards/Svecena_voda_Papa.png Graphic file (type png)
 <use cards/Svecena_voda_Papa.png>
-Package pdftex.def Info: cards/Svecena_voda_Papa.png  used on input line 177.
+Package pdftex.def Info: cards/Svecena_voda_Papa.png  used on input line 184.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Svitek_do_polevky.png, id=39, 282.30469pt x 393.72093pt>
+<cards/Svitek_do_polevky.png, id=41, 282.30469pt x 393.72093pt>
 File: cards/Svitek_do_polevky.png Graphic file (type png)
 <use cards/Svitek_do_polevky.png>
-Package pdftex.def Info: cards/Svitek_do_polevky.png  used on input line 180.
+Package pdftex.def Info: cards/Svitek_do_polevky.png  used on input line 187.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Teleport.png, id=40, 282.30469pt x 393.72093pt>
+<cards/Teleport.png, id=42, 282.30469pt x 393.72093pt>
 File: cards/Teleport.png Graphic file (type png)
 <use cards/Teleport.png>
-Package pdftex.def Info: cards/Teleport.png  used on input line 184.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Teply_upir.png, id=41, 282.30469pt x 393.72093pt>
-File: cards/Teply_upir.png Graphic file (type png)
-<use cards/Teply_upir.png>
-Package pdftex.def Info: cards/Teply_upir.png  used on input line 187.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Toulavy_boty.png, id=42, 282.30469pt x 393.72093pt>
-File: cards/Toulavy_boty.png Graphic file (type png)
-<use cards/Toulavy_boty.png>
-Package pdftex.def Info: cards/Toulavy_boty.png  used on input line 190.
+Package pdftex.def Info: cards/Teleport.png  used on input line 190.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
 
 LaTeX Warning: Float too large for page by 12.28496pt on input line 192.
 
-<cards/U._Bohy.png, id=43, 282.30469pt x 393.72093pt>
+<cards/Teply_upir.png, id=43, 282.30469pt x 393.72093pt>
+File: cards/Teply_upir.png Graphic file (type png)
+<use cards/Teply_upir.png>
+Package pdftex.def Info: cards/Teply_upir.png  used on input line 199.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Toulavy_boty.png, id=44, 282.30469pt x 393.72093pt>
+File: cards/Toulavy_boty.png Graphic file (type png)
+<use cards/Toulavy_boty.png>
+Package pdftex.def Info: cards/Toulavy_boty.png  used on input line 202.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/U._Bohy.png, id=45, 282.30469pt x 393.72093pt>
 File: cards/U._Bohy.png Graphic file (type png)
 <use cards/U._Bohy.png>
-Package pdftex.def Info: cards/U._Bohy.png  used on input line 199.
+Package pdftex.def Info: cards/U._Bohy.png  used on input line 205.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Upir(1).png, id=44, 282.30469pt x 393.72093pt>
+<cards/Upir(1).png, id=46, 282.30469pt x 393.72093pt>
 File: cards/Upir(1).png Graphic file (type png)
 <use cards/Upir(1).png>
-Package pdftex.def Info: cards/Upir(1).png  used on input line 202.
+Package pdftex.def Info: cards/Upir(1).png  used on input line 209.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Upir(2).png, id=45, 282.30469pt x 393.72093pt>
+<cards/Upir(2).png, id=47, 282.30469pt x 393.72093pt>
 File: cards/Upir(2).png Graphic file (type png)
 <use cards/Upir(2).png>
-Package pdftex.def Info: cards/Upir(2).png  used on input line 205.
+Package pdftex.def Info: cards/Upir(2).png  used on input line 212.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Upir_Krejci.png, id=46, 282.30469pt x 393.72093pt>
+<cards/Upir_Krejci.png, id=48, 282.30469pt x 393.72093pt>
 File: cards/Upir_Krejci.png Graphic file (type png)
 <use cards/Upir_Krejci.png>
-Package pdftex.def Info: cards/Upir_Krejci.png  used on input line 209.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Upir.png, id=47, 282.30469pt x 393.72093pt>
-File: cards/Upir.png Graphic file (type png)
-<use cards/Upir.png>
-Package pdftex.def Info: cards/Upir.png  used on input line 212.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Upiri_.png, id=48, 282.30469pt x 393.72093pt>
-File: cards/Upiri_.png Graphic file (type png)
-<use cards/Upiri_.png>
-Package pdftex.def Info: cards/Upiri_.png  used on input line 215.
+Package pdftex.def Info: cards/Upir_Krejci.png  used on input line 215.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
 
 LaTeX Warning: Float too large for page by 12.28496pt on input line 217.
 
-<cards/Upirus_duplicatus.png, id=49, 282.30469pt x 393.72093pt>
+<cards/Upir.png, id=49, 282.30469pt x 393.72093pt>
+File: cards/Upir.png Graphic file (type png)
+<use cards/Upir.png>
+Package pdftex.def Info: cards/Upir.png  used on input line 224.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Upiri_.png, id=50, 282.30469pt x 393.72093pt>
+File: cards/Upiri_.png Graphic file (type png)
+<use cards/Upiri_.png>
+Package pdftex.def Info: cards/Upiri_.png  used on input line 227.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Upirus_duplicatus.png, id=51, 282.30469pt x 393.72093pt>
 File: cards/Upirus_duplicatus.png Graphic file (type png)
 <use cards/Upirus_duplicatus.png>
-Package pdftex.def Info: cards/Upirus_duplicatus.png  used on input line 224.
+Package pdftex.def Info: cards/Upirus_duplicatus.png  used on input line 230.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Upir_z_Brooklynu.png, id=50, 282.30469pt x 393.72093pt>
+<cards/Upir_z_Brooklynu.png, id=52, 282.30469pt x 393.72093pt>
 File: cards/Upir_z_Brooklynu.png Graphic file (type png)
 <use cards/Upir_z_Brooklynu.png>
-Package pdftex.def Info: cards/Upir_z_Brooklynu.png  used on input line 227.
+Package pdftex.def Info: cards/Upir_z_Brooklynu.png  used on input line 234.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Velkej_panak_many.png, id=51, 282.30469pt x 393.72093pt>
+<cards/Velkej_panak_many.png, id=53, 282.30469pt x 393.72093pt>
 File: cards/Velkej_panak_many.png Graphic file (type png)
 <use cards/Velkej_panak_many.png>
-Package pdftex.def Info: cards/Velkej_panak_many.png  used on input line 230.
+Package pdftex.def Info: cards/Velkej_panak_many.png  used on input line 237.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Velkej_panak_sily.png, id=52, 282.30469pt x 393.72093pt>
+<cards/Velkej_panak_sily.png, id=54, 282.30469pt x 393.72093pt>
 File: cards/Velkej_panak_sily.png Graphic file (type png)
 <use cards/Velkej_panak_sily.png>
-Package pdftex.def Info: cards/Velkej_panak_sily.png  used on input line 234.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Zombi_upir.png, id=53, 282.30469pt x 393.72093pt>
-File: cards/Zombi_upir.png Graphic file (type png)
-<use cards/Zombi_upir.png>
-Package pdftex.def Info: cards/Zombi_upir.png  used on input line 237.
-(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
-<cards/Zrcadlo.png, id=54, 282.30469pt x 393.72093pt>
-File: cards/Zrcadlo.png Graphic file (type png)
-<use cards/Zrcadlo.png>
-Package pdftex.def Info: cards/Zrcadlo.png  used on input line 240.
+Package pdftex.def Info: cards/Velkej_panak_sily.png  used on input line 240.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
 
 LaTeX Warning: Float too large for page by 12.28496pt on input line 242.
 
-<cards/Zurial.png, id=55, 282.30469pt x 393.72093pt>
+<cards/Zombi_upir.png, id=55, 282.30469pt x 393.72093pt>
+File: cards/Zombi_upir.png Graphic file (type png)
+<use cards/Zombi_upir.png>
+Package pdftex.def Info: cards/Zombi_upir.png  used on input line 249.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Zrcadlo.png, id=56, 282.30469pt x 393.72093pt>
+File: cards/Zrcadlo.png Graphic file (type png)
+<use cards/Zrcadlo.png>
+Package pdftex.def Info: cards/Zrcadlo.png  used on input line 252.
+(pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
+<cards/Zurial.png, id=57, 282.30469pt x 393.72093pt>
 File: cards/Zurial.png Graphic file (type png)
 <use cards/Zurial.png>
-Package pdftex.def Info: cards/Zurial.png  used on input line 249.
+Package pdftex.def Info: cards/Zurial.png  used on input line 255.
 (pdftex.def)             Requested size: 211.72798pt x 295.28998pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./cards/Arvin.png> <./ca
 rds/Baby_upir.png> <./cards/Bill,_Erik_a_nejaka_upirka.png> <./cards/Blade.png>
@@ -611,34 +621,35 @@ rds/Baby_upir.png> <./cards/Bill,_Erik_a_nejaka_upirka.png> <./cards/Blade.png>
 Brnavka.png> <./cards/Buffy.png> <./cards/Catbat.png> <./cards/Centropen_kolik.
 png> <./cards/Cesnek.png> <./cards/Covid-free_svecena_voda.png>] [3 <./cards/Cu
 pakabra.png> <./cards/Damon,_Stefan_a_nejaka_zenska.png> <./cards/Daniel_Pulka.
-png> <./cards/Drakula_Jr..png> <./cards/Drakula.png> <./cards/Drakula_Sr..png>]
-[4 <./cards/Haigus.png> <./cards/Hrabe_Orlok.png> <./cards/Kumransky_svitek.png
-> <./cards/Lestat.png> <./cards/Levitace.png> <./cards/Lucha_Libre.png>]
-[5 <./cards/Marlow.png> <./cards/Mexickej_starovekej_upir.png> <./cards/Nespica
-ty_klobouk.png> <./cards/Obrneni.png> <./cards/Panak_many.png> <./cards/Panak_s
-ily.png>] [6 <./cards/Prazdny_svitek.png> <./cards/Pullitr_many.png> <./cards/P
-ullitr_sily.png> <./cards/Red_Bull.png> <./cards/Rovnatka.png> <./cards/Set_zab
-ijece_upiru.png>] [7 <./cards/Spicaty_klobouk.png> <./cards/Svecena_voda_Papa.p
-ng> <./cards/Svitek_do_polevky.png> <./cards/Teleport.png> <./cards/Teply_upir.
-png> <./cards/Toulavy_boty.png>] [8 <./cards/U._Bohy.png> <./cards/Upir(1).png>
- <./cards/Upir(2).png> <./cards/Upir_Krejci.png> <./cards/Upir.png> <./cards/Up
-iri_.png>] [9 <./cards/Upirus_duplicatus.png> <./cards/Upir_z_Brooklynu.png> <.
-/cards/Velkej_panak_many.png> <./cards/Velkej_panak_sily.png> <./cards/Zombi_up
-ir.png> <./cards/Zrcadlo.png>] [10 <./cards/Zurial.png>] (./layout.aux) ) 
+png> <./cards/Dost-divnej-kolik.png> <./cards/Drakula_Jr..png> <./cards/Drakula
+.png>] [4 <./cards/Drakula_Sr..png> <./cards/Haigus.png> <./cards/Hrabe_Orlok.p
+ng> <./cards/Kolik-proti-kolice.png> <./cards/Kumransky_svitek.png> <./cards/Le
+stat.png>] [5 <./cards/Levitace.png> <./cards/Lucha_Libre.png> <./cards/Marlow.
+png> <./cards/Mexickej_starovekej_upir.png> <./cards/Nespicaty_klobouk.png> <./
+cards/Obrneni.png>] [6 <./cards/Panak_many.png> <./cards/Panak_sily.png> <./car
+ds/Prazdny_svitek.png> <./cards/Pullitr_many.png> <./cards/Pullitr_sily.png> <.
+/cards/Red_Bull.png>] [7 <./cards/Rovnatka.png> <./cards/Set_zabijece_upiru.png
+> <./cards/Spicaty_klobouk.png> <./cards/Svecena_voda_Papa.png> <./cards/Svitek
+_do_polevky.png> <./cards/Teleport.png>] [8 <./cards/Teply_upir.png> <./cards/T
+oulavy_boty.png> <./cards/U._Bohy.png> <./cards/Upir(1).png> <./cards/Upir(2).p
+ng> <./cards/Upir_Krejci.png>] [9 <./cards/Upir.png> <./cards/Upiri_.png> <./ca
+rds/Upirus_duplicatus.png> <./cards/Upir_z_Brooklynu.png> <./cards/Velkej_panak
+_many.png> <./cards/Velkej_panak_sily.png>] [10 <./cards/Zombi_upir.png> <./car
+ds/Zrcadlo.png> <./cards/Zurial.png>] (./layout.aux) ) 
 Here is how much of TeX's memory you used:
- 4932 strings out of 480359
- 83877 string characters out of 5889669
+ 4944 strings out of 480359
+ 84233 string characters out of 5889669
  473718 words of memory out of 5000000
- 21873 multiletter control sequences out of 15000+600000
+ 21883 multiletter control sequences out of 15000+600000
  403430 words of font info for 27 fonts, out of 8000000 for 9000
  473 hyphenation exceptions out of 8191
  68i,8n,75p,220b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on layout.pdf (10 pages, 5279885 bytes).
+</usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on layout.pdf (10 pages, 5430306 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
+ 155 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 276 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 286 words of extra memory for PDF output out of 10000 (max. 10000000)
 
