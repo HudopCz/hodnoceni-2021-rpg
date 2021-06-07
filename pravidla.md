@@ -15,10 +15,10 @@
 
 Prachy
 
-* 700
-* 1100
-* 1300
-* 1700
+* 1000
+* 1500
+* 1750
+* 2250
 
 ## Za prachy
 
@@ -72,7 +72,7 @@ Akce
   * Jiné věci jsou asi pochopitelné
 * Boj
   * Nemusíš bojovat s protivníkem, na jehož pole stoupneš
-  * Ale můžeš
+  * Ale můžeš - v tu chvíli ale musíš bojovat se všemi protivníky na poli
   * Tvá síla plus kostka vs. síla protivníka plus kostka
   * Plus schopnosti
   * Házíme všichni při odevzdávání?
@@ -80,6 +80,7 @@ Akce
   * Může se s ní utkat více zabíječů
   * Výhra
     * Skalpy zabíječe
+    * Odměna v penězích: `max(Skalpy zabíječe * 200, 1000)`
     * Speciální odměny
   * Prohra
     * Konec kola
