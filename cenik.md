@@ -31,10 +31,14 @@
 
 * Buffy
   * 1900
+* KáTéčko
+  * 3500
 * Kumránský svitek
   * 700
 * Levitace
   * 600
+* Polymorf
+  * 800
 * Svitek do polévky
   * 700
 
